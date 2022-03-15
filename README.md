@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ragenk
-- 👀 I’m interested in Data Analytics.
+- 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning GitHub and SQL :).
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me : Twitter: @ragenkdo
