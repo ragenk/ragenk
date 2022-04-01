@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ragenk
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning GitHub and SQL :).
+- 👀 I’m interested in Front-End Web Development.
+- 🌱 I’m currently learning Front-End techonologies :).
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me : Twitter: @ragenkdo
 
