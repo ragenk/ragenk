@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ragenk
+- 👋 Hi, I’m @ikydo
 - 👀 I’m an Electronics Engineer.
 - 🌱 I’m currently learning Front-End techonologies :).
 - 💞️ I’m looking to collaborate on anything!
