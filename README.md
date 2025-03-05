@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ragenk
-- 👀 I’m interested in Front-End Web Development.
+- 👀 I’m an Electronics Engineer.
 - 🌱 I’m currently learning Front-End techonologies :).
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me : LinkedIn: @rafaaguasvivas
